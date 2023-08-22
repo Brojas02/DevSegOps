@@ -34,6 +34,13 @@ seguridad integradas disminuye las posibilidades de accesos no autorizados.
 + **_Incorpore puertas de enlace de API seguras:_** las API seguras aumentan la supervisión de los enrutamientos y las autorizaciones. 
 Al disminuir la cantidad de API expuestas, las empresas pueden reducir las superficies de ataque.  
 
+## Diferencias entre DevOps y DevSecOps
+DevOps es una metodología bajo la cual los desarrolladores y los equipos de operaciones trabajan juntos para crear un marco de implementación más ágil y optimizado. DevSecOps tiene como objetivo automatizar las tareas de seguridad clave incorporando controles y procesos de seguridad en el flujo de trabajo de DevOps. DevSecOps amplía la cultura DevOps de responsabilidad compartida para incluir prácticas de seguridad.
+
+Los enfoques de DevOps y DevSecOps son similares en algunos aspectos, incluido el uso de la automatización y los procesos continuos para establecer ciclos colaborativos de desarrollo. Sin embargo, DevOps prioriza la velocidad de entrega, mientras que DevSecOps desplaza la seguridad hacia la izquierda, lo que significa mover la seguridad al punto más temprano posible en el proceso de desarrollo.
+
+ ![Tareas DevSecOps](https://cdn.ttgtmedia.com/rms/onlineimages/security-security_responsibilities_in_devsecops-f.png)
+
 > [!NOTE]
 > Autores:
 > Gabriel Vasquez.
