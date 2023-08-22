@@ -32,4 +32,10 @@ pueden ser objetivos de gran valor para los atacantes.
 seguridad integradas disminuye las posibilidades de accesos no autorizados.
 
 + **_Incorpore puertas de enlace de API seguras:_** las API seguras aumentan la supervisión de los enrutamientos y las autorizaciones. 
-Al disminuir la cantidad de API expuestas, las empresas pueden reducir las superficies de ataque.
+Al disminuir la cantidad de API expuestas, las empresas pueden reducir las superficies de ataque.  
+
+> [!NOTE]
+> Autores:
+> Gabriel Vasquez.
+> Brajhan Barrera.
+> Jeison Quesada.
