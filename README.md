@@ -3,9 +3,11 @@
 que aborda la cultura, la automatización y el diseño de plataformas, e integra la 
 seguridad como una responsabilidad compartida durante todo el ciclo de vida de la TI.
 
+<center>
 ![DevSecOps](https://miro.medium.com/v2/resize:fit:1400/0*hHrFoyntyRG_WLg9.png)
+</center>
 
-##DevSecOps vs DevOps
+## DevSecOps vs DevOps
 DevOps no solo concierne a los equipos de desarrollo y operaciones. Si desea aprovechar 
 al máximo la agilidad y la capacidad de respuesta de los enfoques de DevOps, [La seguridad 
 de la TI](https://www.redhat.com/es/topics/security) 
@@ -16,9 +18,11 @@ nada. Pero eso quedó en el pasado. Una metodología efectiva de DevOps garantiz
 rápidos y frecuentes (a veces de semanas o días), pero las prácticas de seguridad obsoletas pueden 
 revertir incluso las iniciativas de DevOps más eficientes.
 
+<center>
 ![Equipo DevSecOps](https://www.redhat.com/rhdc/managed-files/devsecops-collab-405x308_0.png)
+</center>
 
-##Seguridad del entorno y de los datos
+## Seguridad del entorno y de los datos
 + **_Estandarice y automatice el entorno:_** los servicios deben tener la menor cantidad de privilegios posible 
 para reducir las conexiones y los accesos no autorizados.
 
