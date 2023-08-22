@@ -41,6 +41,15 @@ Los enfoques de DevOps y DevSecOps son similares en algunos aspectos, incluido e
 
  ![Tareas DevSecOps](https://cdn.ttgtmedia.com/rms/onlineimages/security-security_responsibilities_in_devsecops-f.png)
 
+## Diferencias entre DevOps y DevSecOps 
+ThreatModeler es una herramienta automatizada de modelado de amenazas que se puede implementar en las instalaciones o en una instancia en la nube. ThreatModeler monitorea continuamente los modelos de amenazas para entornos de computación en la nube, notificando a los usuarios sobre actualizaciones y cambios. ThreatModeler proporciona una interfaz de programación de aplicaciones bidireccional para integrarse fácilmente con herramientas IC/DC, lo que permite a los equipos construir infraestructuras seguras en la nube. ThreatModeler ofrece plantillas que se pueden reutilizar e información y marcos de amenazas integrados.
+
+**_Acunetix:_**proporciona un escáner de seguridad de sitios web todo en uno para ayudar a los desarrolladores a encontrar vulnerabilidades lo antes posible en el ciclo de desarrollo. Acunetix permite a las organizaciones proteger sus activos web de los hackers al proporcionar tecnologías especializadas que los desarrolladores pueden usar para detectar más problemas y solucionarlos rápidamente.
+
+**_Checkmarx:_** ofrece una herramienta de prueba de seguridad de aplicaciones estáticas (SAST) que busca vulnerabilidades de seguridad que se analizan en el código. Esta herramienta permite a los desarrolladores entregar aplicaciones seguras, completamente analizadas y probadas al incorporar análisis y pruebas de código de seguridad en el proceso de desarrollo. Y Checkmarx se integra fácilmente con cualquier entorno o herramienta de integración y desarrollo continuo.
+
+ **_Aqua Security:_**es una plataforma de seguridad que se especializa en la seguridad de aplicaciones en contenedores y sus infraestructuras, evitando intrusiones o vulnerabilidades a través del pipeline DevSecOps. Aqua cuenta con procesos y controles de seguridad en tiempo de ejecución muy estrictos. Esta herramienta se centra en las vulnerabilidades relacionadas con el acceso a la red y las imágenes de las aplicaciones. Aqua se integra con una variedad de infraestructuras, incluido Kubernetes, para proteger los clústeres en el nivel de red más bajo y controlar la actividad del contenedor en tiempo real utilizando perfiles de comportamiento basados en el aprendizaje automático.
+
 > [!NOTE]
 > Autores:
 > Gabriel Vasquez.
