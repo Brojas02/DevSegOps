@@ -41,7 +41,7 @@ Los enfoques de DevOps y DevSecOps son similares en algunos aspectos, incluido e
 
  ![Tareas DevSecOps](https://cdn.ttgtmedia.com/rms/onlineimages/security-security_responsibilities_in_devsecops-f.png)
 
-## Diferencias entre DevOps y DevSecOps 
+## Herramientas de DevSecOps 
 ThreatModeler es una herramienta automatizada de modelado de amenazas que se puede implementar en las instalaciones o en una instancia en la nube. ThreatModeler monitorea continuamente los modelos de amenazas para entornos de computación en la nube, notificando a los usuarios sobre actualizaciones y cambios. ThreatModeler proporciona una interfaz de programación de aplicaciones bidireccional para integrarse fácilmente con herramientas IC/DC, lo que permite a los equipos construir infraestructuras seguras en la nube. ThreatModeler ofrece plantillas que se pueden reutilizar e información y marcos de amenazas integrados.
 
 **_Acunetix:_** proporciona un escáner de seguridad de sitios web todo en uno para ayudar a los desarrolladores a encontrar vulnerabilidades lo antes posible en el ciclo de desarrollo. Acunetix permite a las organizaciones proteger sus activos web de los hackers al proporcionar tecnologías especializadas que los desarrolladores pueden usar para detectar más problemas y solucionarlos rápidamente.
